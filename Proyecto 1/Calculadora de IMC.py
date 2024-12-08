@@ -53,6 +53,3 @@ print(f"{"Edad: "}{edad}{" años"}")
 print(f"{"Peso: "}{peso}{" Kg"}")
 print(f"{"Estatura: "}{estaturaM}{" Mts"}")
 print("El Indice de Masa Muscular es: {:.2f}".format(imc))
-
-
-     
