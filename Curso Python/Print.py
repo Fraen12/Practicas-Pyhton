@@ -3,7 +3,7 @@
 print("Hola mundo")
 print("Hola Mundo", "otra vez")
 print("Son las", 9, "de la mañana")
-print("El resultado de 3 + 4 es:", 3*4)
+print("El resultado de 3 * 4 es:", 3*4)
 
 #Ejemplos de cadenas formateadas (f"")
 
